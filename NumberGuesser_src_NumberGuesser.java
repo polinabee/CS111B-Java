@@ -1,6 +1,6 @@
 /**
  * Created by pberenstein on 9/3/2016.
- * CCSF Fall 2016
+ * CCSF Fall 2016 
  */
 
 import java.util.Scanner;
