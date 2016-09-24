@@ -56,45 +56,6 @@ public class Assignment4 {
         }
             System.out.println("High card!");
         }
-//
-//        TESTS
-//        if (containsPair(myhand)) {
-//            System.out.println("Pair!");
-//        } else {
-//            System.out.println("Not a pair!");
-//        }
-//
-//        if (containsTwoPair(myhand)) {
-//            System.out.println("Two Pair!");
-//        } else {
-//            System.out.println("Not a two pair!");
-//        }
-//
-//        if (containsThreeOfaKind(myhand)) {
-//            System.out.println("Three of a kind!");
-//        } else {
-//            System.out.println("Not three of a kind!");
-//        }
-//
-//        if (containsStraight(myhand)) {
-//            System.out.println("Flush!");
-//        } else {
-//            System.out.println("Not flush!");
-//        }
-//
-//        if (containsFullHouse(myhand)) {
-//            System.out.println("Full house!");
-//        } else {
-//            System.out.println("Not full house!");
-//        }
-//
-//        if (containsFourOfaKind(myhand)) {
-//            System.out.println("Four of a kind!");
-//        } else {
-//            System.out.println("Not four of a kind!");
-//        }
-
-//    }
 
     public static boolean containsPair(int hand[]) {
         List counts = new ArrayList();
