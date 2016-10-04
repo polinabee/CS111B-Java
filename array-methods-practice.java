@@ -1,6 +1,3 @@
-import org.jetbrains.annotations.Contract;
-
-
 import java.util.Arrays;
 import java.util.Scanner;
 
